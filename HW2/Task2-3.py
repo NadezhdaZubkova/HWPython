@@ -13,5 +13,5 @@
 k=0
 number=10
 while 2**k <= number:
-    print(2**k )
+    print(2**k, end=',' )
     k+=1
